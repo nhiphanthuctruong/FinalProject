@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 import sklearn
 from sklearn.model_selection import train_test_split
 
-st.markdown("[Nhi Truong](https://github.com/nhiphanthuctruong)")
+st.markdown("[Nhi Truong](https://github.com/nhiphanthuctruong/FinalProject)")
 
 st.title("Build Your Portfolio")
 st.subheader("Cluster analysis")
